@@ -1,0 +1,1 @@
+# Project of server monitoring game server [avorion](https://www.avorion.net/)

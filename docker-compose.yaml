@@ -1,0 +1,8 @@
+version: "3"
+
+services:
+  rcon-web-admin: # admin/admin
+    image: itzg/rcon
+    ports:
+      - 4326:4326 #public port
+      - 4327:4327 #UI web socket post
